@@ -1,0 +1,19 @@
+nav>ul>li{
+    display:inline;
+    margin-right: 200px;
+}
+nav li>a{
+    text-decoration: none;
+
+}
+footer{
+    margin-top: 90px ;
+    text-align: center;
+}
+main> article> header{
+    text-align: center;
+}
+
+main> article> figure>figcaption{
+    text-align: center;
+}
